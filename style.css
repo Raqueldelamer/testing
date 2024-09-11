@@ -1,0 +1,77 @@
+body {
+    background-image: url("https://science.nasa.gov/wp-content/uploads/2023/03/main-image-star-forming-region-carina-nircam-final-5mb-1-jpeg.webp?w=2024");
+}
+
+button:hover {
+    background-color: darkkhaki;
+}
+
+#fetch-button {
+    margin: 20px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+h1 {
+    color: khaki;
+    font-family: cochin;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+#image-container img {
+    max-width: 100%;
+    height: auto;
+    margin: 5px;
+    border: 5px solid black;
+}
+.container {
+    max-width: 700px;
+    margin: auto;
+}
+
+.card {
+    background-color: black;
+    opacity: 85%;
+    
+}
+
+div {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 16px;
+    font-family: cochin;
+    
+}
+
+img {
+    align-content: center;
+    padding: 5px;
+    max-width: 100%;
+}
+
+.linked-in {
+    max-width: 40px;
+
+}
+.my-moon {
+    max-width: 500px;
+}
+
+.my-tarot {
+    max-width: 300px;
+}
+
+p {
+    color: whitesmoke;
+    font-family: Tahoma;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 4px;
+    margin-right: 4px;
+}
